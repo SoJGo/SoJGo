@@ -2,9 +2,6 @@
   <h1> Sophie Gowen</h1>
   <h3> Full Stack Software Developer </h3>
   <h4> Recent Makers graduate currently seeking her next challenge <h4>
-  
-
-[Hello](#hello) | [Featured Projects](#featured-projects) | [Work Experience](#experience) | [Education](#education)  | [Contact](#contact)
 </div>
 
 <br>
